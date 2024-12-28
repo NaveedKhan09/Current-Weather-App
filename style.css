@@ -1,0 +1,45 @@
+
+  
+.lilita-one-regular {
+    font-family: "Lilita One", serif;
+    font-weight: 400;
+    font-style: normal;
+}
+.main{
+    background: url(sky-background-video-conferencing_23-2148623068.avif);
+    background-size: cover;
+    background-repeat: no-repeat;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.location{
+    height: 50px;
+}
+.iner{
+    min-width: 260px;
+    border-radius: 30px;
+    backdrop-filter: blur(50px);
+
+}
+input{
+    border-radius: 25px;
+    min-width: 265px;
+}
+.input_bg{
+    background-color: #A9ECF8;
+}
+.main button{
+    border-radius: 25px;
+    background-color: #A9ECF8;
+}
+.time{
+    height: 80px;
+}
+.temp h1 {
+    font-size: 4rem;
+    text-shadow: 2px 2px 4px rgba(0, 0, 0, 0.5);
+}
+.properties{
+    width: 120px;
+    height: 70px;
+    backdrop-filter: blur(100px);
+}
